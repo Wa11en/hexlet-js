@@ -1,2 +1,3 @@
-import { myFunc } from "./src/index.js";
-myFunc ();
+import myFunc from './src/index';
+
+myFunc();
